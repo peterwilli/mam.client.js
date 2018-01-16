@@ -22249,7 +22249,7 @@ var Module;if(!Module)Module=(typeof Module!=="undefined"?Module:null)||{};var m
           });
         }
       }
-    })({"wasmBinaryFile":"/iota-bindings-emscripten.wasm","ENVIRONMENT":"WEB"})
+    })({"wasmBinaryFile":"/static/lib/iota-bindings-emscripten.wasm","ENVIRONMENT":"WEB"})
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(41), __webpack_require__(6).Buffer))
 
 /***/ }),
